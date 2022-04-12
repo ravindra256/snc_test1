@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="snc_extend_task" language="en" table="x_snc_snc_test1_snc_extend_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>snc_extend_task</label>
+            <language>en</language>
+            <name>x_snc_snc_test1_snc_extend_task</name>
+            <plural>snc_extend_tasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+            <sys_created_on>2022-04-12 18:24:18</sys_created_on>
+            <sys_id>6c598c461bb68d10efa93158cc4bcbc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>snc_extend_task</sys_name>
+            <sys_package display_value="snc test1" source="x_snc_snc_test1">17a6f8eedbd780500a2efb16bf96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="snc test1">17a6f8eedbd780500a2efb16bf96196b</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_snc_test1_snc_extend_task__en</sys_update_name>
+            <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+            <sys_updated_on>2022-04-12 18:24:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
