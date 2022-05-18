@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>read</operation>
+        <source_scope display_value="snc test1">17a6f8eedbd780500a2efb16bf96196b</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-07 19:44:28</sys_created_on>
+        <sys_id>5f6fbaba1b53a450d3f6a9f2604bcb46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_transform_map</sys_name>
+        <sys_package display_value="snc test1" source="x_snc_snc_test1">17a6f8eedbd780500a2efb16bf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snc test1">17a6f8eedbd780500a2efb16bf96196b</sys_scope>
+        <sys_update_name>sys_scope_privilege_5f6fbaba1b53a450d3f6a9f2604bcb46</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-07 19:44:28</sys_updated_on>
+        <target_name>sys_transform_map</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="snc test1">17a6f8eedbd780500a2efb16bf96196b</application>
+        <file_path/>
+        <instance_id>2695722cdbb73b8091232f17d4961920</instance_id>
+        <instance_name>emprlelgonda2</instance_name>
+        <name>sys_scope_privilege_5f6fbaba1b53a450d3f6a9f2604bcb46</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="snc test1">17a6f8eedbd780500a2efb16bf96196b</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-07 19:44:28</sys_created_on><sys_id>5f6fbaba1b53a450d3f6a9f2604bcb46</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_transform_map</sys_name><sys_package display_value="snc test1" source="x_snc_snc_test1">17a6f8eedbd780500a2efb16bf96196b</sys_package><sys_policy/><sys_scope display_value="snc test1">17a6f8eedbd780500a2efb16bf96196b</sys_scope><sys_update_name>sys_scope_privilege_5f6fbaba1b53a450d3f6a9f2604bcb46</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-07 19:44:28</sys_updated_on><target_name>sys_transform_map</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+        <payload_hash>-1151709999</payload_hash>
+        <record_name>sys_transform_map</record_name>
+        <reverted_from/>
+        <source>1ba6f8eedbd780500a2efb16bf96196d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-07 19:44:28</sys_created_on>
+        <sys_id>136fbaba1b53a450d3f6a9f2604bcb4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178addd5b780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-07 19:44:28</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>176fbaba8a53a4505aa47de38f865349</update_guid>
+        <update_guid_history>176fbaba8a53a4505aa47de38f865349:-1151709999</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-07 20:29:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>009dfc494d5148ea801849392058e619</sys_id>
+        <sys_metadata>5f6fbaba1b53a450d3f6a9f2604bcb46</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_transform_map</sys_name>
+        <sys_package display_value="snc test1" source="x_snc_snc_test1">17a6f8eedbd780500a2efb16bf96196b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="snc test1">17a6f8eedbd780500a2efb16bf96196b</sys_scope>
+        <sys_scope_delete display_value="">0a1952b9093a4a008095f38eb9259000</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_5f6fbaba1b53a450d3f6a9f2604bcb46</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_5f6fbaba1b53a450d3f6a9f2604bcb46">136fbaba1b53a450d3f6a9f2604bcb4a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-07 20:29:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

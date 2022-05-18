@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2021-04-07 19:36:27</sys_created_on>
+        <sys_id>719df23a1b53a450d3f6a9f2604bcb53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_snc_test1_snc_test1.x_snc_snc_test1.snc_test1_user</sys_name>
+        <sys_package display_value="snc test1" source="x_snc_snc_test1">17a6f8eedbd780500a2efb16bf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snc test1">17a6f8eedbd780500a2efb16bf96196b</sys_scope>
+        <sys_security_acl display_value="x_snc_snc_test1_snc_test1">799df23a1b53a450d3f6a9f2604bcb4d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_719df23a1b53a450d3f6a9f2604bcb53</sys_update_name>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2021-04-07 19:36:27</sys_updated_on>
+        <sys_user_role display_value="x_snc_snc_test1.snc_test1_user" name="x_snc_snc_test1.snc_test1_user">7d9dbef61b53a450d3f6a9f2604bcbd4</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

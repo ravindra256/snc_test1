@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2022-05-18 19:18:23">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bacd627edb530010c18e82c968961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Incident Resolved</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="snc test1" source="x_snc_snc_test1">17a6f8eedbd780500a2efb16bf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snc test1">17a6f8eedbd780500a2efb16bf96196b</sys_scope>
+        <sys_update_name>sys_portal_page_bacd627edb530010c18e82c968961941</sys_update_name>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+        <title>PA Incident Resolved</title>
+        <user/>
+        <view>pa_incident_resolved_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="PA Incident Resolved">bacd627edb530010c18e82c968961941</page>
+                <summary>Resolved incidents by Priority</summary>
+                <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                <sys_id>36cd627edb530010c18e82c968961942</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">36cd627edb530010c18e82c968961942</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                        <sys_id>3acd627edb530010c18e82c968961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                        <value>95cbb031d7201100b96d45a3ce61036d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">36cd627edb530010c18e82c968961942</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                        <sys_id>3ecd627edb530010c18e82c968961945</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">36cd627edb530010c18e82c968961942</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                        <sys_id>76cd627edb530010c18e82c968961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                        <value>breakdown</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">36cd627edb530010c18e82c968961942</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                        <sys_id>b2cd627edb530010c18e82c968961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">36cd627edb530010c18e82c968961942</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                        <sys_id>bacd627edb530010c18e82c968961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                        <value>5613eb61d7231100b96d45a3ce610304</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">36cd627edb530010c18e82c968961942</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                        <sys_id>fecd627edb530010c18e82c968961945</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                        <value>Resolved incidents by Priority</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Incident Resolved">bacd627edb530010c18e82c968961941</page>
+                <summary/>
+                <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                <sys_id>72cd627edb530010c18e82c96896194b</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">72cd627edb530010c18e82c96896194b</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:08</sys_created_on>
+                        <sys_id>32cd627edb530010c18e82c96896194f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:08</sys_updated_on>
+                        <value>95cbb031d7201100b96d45a3ce61036d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">72cd627edb530010c18e82c96896194b</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:08</sys_created_on>
+                        <sys_id>7ecd627edb530010c18e82c96896194e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:08</sys_updated_on>
+                        <value>score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">72cd627edb530010c18e82c96896194b</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                        <sys_id>b6cd627edb530010c18e82c96896194b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                        <value>5eb2ab61d7231100b96d45a3ce610323</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">72cd627edb530010c18e82c96896194b</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:08</sys_created_on>
+                        <sys_id>bacd627edb530010c18e82c96896194e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:08</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">72cd627edb530010c18e82c96896194b</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:08</sys_created_on>
+                        <sys_id>f2cd627edb530010c18e82c96896194f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:08</sys_updated_on>
+                        <value>Average resolution time</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">72cd627edb530010c18e82c96896194b</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:08</sys_created_on>
+                        <sys_id>f6cd627edb530010c18e82c96896194e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:08</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Incident Resolved">bacd627edb530010c18e82c968961941</page>
+                <summary>Resolved incidents</summary>
+                <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                <sys_created_on>2020-03-06 02:05:08</sys_created_on>
+                <sys_id>b6cd627edb530010c18e82c96896194f</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                <sys_updated_on>2020-03-06 02:05:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:08">b6cd627edb530010c18e82c96896194f</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:08</sys_created_on>
+                        <sys_id>3acd627edb530010c18e82c968961953</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:08</sys_updated_on>
+                        <value>score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:08">b6cd627edb530010c18e82c96896194f</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:08</sys_created_on>
+                        <sys_id>72cd627edb530010c18e82c968961950</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:08</sys_updated_on>
+                        <value>9c056e52d7031100b96d45a3ce610396</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:08">b6cd627edb530010c18e82c96896194f</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:08</sys_created_on>
+                        <sys_id>76cd627edb530010c18e82c968961953</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:08</sys_updated_on>
+                        <value>Resolved incidents</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:08">b6cd627edb530010c18e82c96896194f</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:08</sys_created_on>
+                        <sys_id>b2cd627edb530010c18e82c968961953</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:08</sys_updated_on>
+                        <value>95cbb031d7201100b96d45a3ce61036d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:08">b6cd627edb530010c18e82c96896194f</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:08</sys_created_on>
+                        <sys_id>becd627edb530010c18e82c96896194f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:08</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:08">b6cd627edb530010c18e82c96896194f</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:08</sys_created_on>
+                        <sys_id>facd627edb530010c18e82c96896194f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:08</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="PA Incident Resolved">bacd627edb530010c18e82c968961941</page>
+                <summary/>
+                <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                <sys_id>facd627edb530010c18e82c968961946</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">facd627edb530010c18e82c968961946</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                        <sys_id>32cd627edb530010c18e82c968961947</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">facd627edb530010c18e82c968961946</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                        <sys_id>3acd627edb530010c18e82c96896194a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                        <value>95cbb031d7201100b96d45a3ce61036d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">facd627edb530010c18e82c968961946</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                        <sys_id>76cd627edb530010c18e82c96896194a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">facd627edb530010c18e82c968961946</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                        <sys_id>becd627edb530010c18e82c96896194a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                        <value>score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">facd627edb530010c18e82c968961946</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                        <sys_id>f2cd627edb530010c18e82c968961947</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                        <value>fbd46e52d7031100b96d45a3ce610343</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 03-05-2020 18:05:07">facd627edb530010c18e82c968961946</portal_section>
+                        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+                        <sys_created_on>2020-03-06 02:05:07</sys_created_on>
+                        <sys_id>facd627edb530010c18e82c96896194a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+                        <sys_updated_on>2020-03-06 02:05:07</sys_updated_on>
+                        <value>Average resolution time by Priority</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

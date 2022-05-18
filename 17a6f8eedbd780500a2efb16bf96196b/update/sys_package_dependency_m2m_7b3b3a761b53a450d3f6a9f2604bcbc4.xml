@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">e26bbe64db333300f8f690b6db961955</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2021-04-07 19:26:12</sys_created_on>
+        <sys_id>7b3b3a761b53a450d3f6a9f2604bcbc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="snc test1" source="x_snc_snc_test1">17a6f8eedbd780500a2efb16bf96196b</sys_package>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2021-04-07 19:26:12</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

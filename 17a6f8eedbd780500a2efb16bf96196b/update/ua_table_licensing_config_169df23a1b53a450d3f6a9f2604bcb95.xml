@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_snc_snc_test1_snc_test1</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2021-04-07 19:36:29</sys_created_on>
+        <sys_id>169df23a1b53a450d3f6a9f2604bcb95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_snc_test1_snc_test1</sys_name>
+        <sys_package display_value="snc test1" source="x_snc_snc_test1">17a6f8eedbd780500a2efb16bf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snc test1">17a6f8eedbd780500a2efb16bf96196b</sys_scope>
+        <sys_update_name>ua_table_licensing_config_169df23a1b53a450d3f6a9f2604bcb95</sys_update_name>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2021-04-07 19:36:29</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

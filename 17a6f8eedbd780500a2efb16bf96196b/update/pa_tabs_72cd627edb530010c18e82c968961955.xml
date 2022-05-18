@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Incident Resolved">3ecd627edb530010c18e82c968961953</canvas_page>
+        <name>Incident Resolved</name>
+        <page display_value="PA Incident Resolved">bacd627edb530010c18e82c968961941</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2020-03-06 02:05:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>72cd627edb530010c18e82c968961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Resolved</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="snc test1" source="x_snc_snc_test1">17a6f8eedbd780500a2efb16bf96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snc test1">17a6f8eedbd780500a2efb16bf96196b</sys_scope>
+        <sys_update_name>pa_tabs_72cd627edb530010c18e82c968961955</sys_update_name>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2020-03-06 02:05:08</sys_updated_on>
+    </pa_tabs>
+</record_update>
